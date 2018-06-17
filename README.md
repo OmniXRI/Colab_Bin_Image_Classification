@@ -10,6 +10,8 @@
 
 4.   如何應用深度學習訓練成果進行推論(Inference) 
 
+有興趣的伙伴，請將「image_classification.ipynb」下載到您的Google雲端硬碟，雙擊後選擇以「Colaboratory」開啟，即可開始享受Google提供的免費GPU運算資訊，開始進入「人工智能」的領域。
+
 **註：以下程式範例執行時，請按【Shift+Enter】進行單步執行並自動跳至下一行。若想一次全部運行本範例所有代碼，可按【Ctrl+F9】**
 
 歐尼克斯實境互動工作室【OmniXRI Studio】 Jack整理製作 2018.6.14
